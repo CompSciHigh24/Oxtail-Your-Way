@@ -1,0 +1,20 @@
+.card{
+  margin: 0 auto;
+  height:100px;
+}
+.text{
+  text-align: center;
+  font-family: "Seymour One";
+  font-weight: 400;
+  font-style: normal;
+   text-align: center
+}
+.card-text{
+  font-family: "Seymour One";
+  font-weight: 400;
+  font-style: normal;
+  text-align: center
+  
+#body2 {
+  background-color:#CCD5AE; !important 
+}
